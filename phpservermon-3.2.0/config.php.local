@@ -1,0 +1,8 @@
+<?php
+define('PSM_DB_PREFIX', 'monitor_eltepano');
+define('PSM_DB_USER', 'srvmon');
+define('PSM_DB_PASS', '2261');
+define('PSM_DB_NAME', 'SRVMON');
+define('PSM_DB_HOST', '127.0.0.1');
+define('PSM_DB_PORT', '3306');
+define('PSM_BASE_URL', 'http://localhost/~umut/phpservermon-3.2.0');
